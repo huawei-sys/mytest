@@ -1,1 +1,3 @@
-adasdasd阿萨大大阿三大苏打
+public class HelloWorld{
+	publicasdadasdad
+}
